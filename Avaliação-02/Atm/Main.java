@@ -4,7 +4,7 @@ class Main {
 		System.out.println("==============================");
 		System.out.println("      ACOSTA'S ATM BANK       ");
 		System.out.println("==============================");
-
+// IDENTIDADE + OU - CHAVE PRIMÁRIA
 		ATM atm = new ATM(2344499);
 		System.out.println(atm.numeroSerie == 2344499);
 		// a linha a seguir não compila, comente-a

@@ -1,0 +1,28 @@
+Requisitos do Sistema Clínica
+=============================
+O sistema deve permitir ...
+
+- cadastrar médicos(as)
+- cadastrar pacientes
+- agendar consulta
+- cancelar agendamento
+- encerrar consulta
+  - realizada: diagnóstico & prescrição
+  - suspensa: motivo
+
+Instruções para projetar/programar
+----------------------------------
+
+* Prestar atenção aos substantivos, ex: Médico, Paciente, Consulta, etc, que podem se tornar classes.
+* Prestar atenção aos verbos, ex: cadastrar, agendar, cancelar, que podem se tornar métodos.
+
+
+
+
+
+est    1000     =  2000
+jnr    2000     =  4000
+pleno  3500 * 2 = 14000
+senior 6000     = 12000
+                 ------
+                  32000 = 1 mês equipe
